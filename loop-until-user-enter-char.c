@@ -1,3 +1,5 @@
+//this code reads input from user
+//the loop stops when the user enters 'y' character
 #include <stdio.h>
 int main () {
   char c;
